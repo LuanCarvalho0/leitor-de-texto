@@ -6,6 +6,7 @@ import os
 # cores
 class colors:
     cyan = '\033[1;36m'
+    white = '\033[1;97m'
     yellow = '\033[1;33m'
     green = '\033[92m'
     red = '\033[91m'
